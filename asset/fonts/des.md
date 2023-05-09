@@ -1,0 +1,1 @@
+<!-- File chỉ lưu các dạng liên quan tới font icon -->

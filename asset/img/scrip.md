@@ -1,0 +1,1 @@
+<!-- File chỉ chuyên lưu những hình ảnh -->
